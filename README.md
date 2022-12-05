@@ -20,6 +20,14 @@ from sklearn.preprocessing import StandardScaler
 from pandas.tseries.offsets import DateOffset
 from sklearn.metrics import classification_report
 
+## Project Inputs and Design
+
+A OHLCV spreadsheet dataset was used with MSCI Index data.  Trading signals were established with SMA values to determine when to buy/sell/hold.  SKlearn was used to support SVM learning methods and then the data was fit using linear regression to make predictions.  The data was then ploted to make a visual representation of actual returns vs strategic returns.
+
+## Results
+
+Here is a picture of the Baseline Model
+
 
 ## Contributors
 Project Designor:  Michael Mikelic
