@@ -26,7 +26,9 @@ A OHLCV spreadsheet dataset was used with MSCI Index data.  Trading signals were
 
 ## Results
 
-Here is a picture of the Baseline Model
+Here is a chart of the Baseline Model plot:
+
+![baselinechart](Resources/basechart.png)
 
 
 ## Contributors
