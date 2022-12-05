@@ -38,7 +38,7 @@ SVC classifier model used two input parameters which are a 4-day and a 100-day m
 
 ![chart2](Resources/actualvstrategy2.png)
 
-Using a Decision Tree 
+Using a Decision Tree Classifier Model - The results were not as good, indicated that this strategy is not as effective.  However, this model still performed better then the baseline model which did not use any algorithm.  
 
 
 ## Contributors
