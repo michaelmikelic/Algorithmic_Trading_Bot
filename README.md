@@ -30,6 +30,16 @@ Here is a chart of the Baseline Model plot:
 
 ![baselinechart](Resources/basechart.png)
 
+Baseline just represents the first trading strategy that does not use any algorithms and generates a buy/sell signal when the prior return was positive/negative.  This was the straegy that performed the worst.  
+
+![chart](Resources/actualvstrategy.png)
+
+SVC classifier model used two input parameters which are a 4-day and a 100-day moving average price.  Thsi strategy outperfomred the Actual Return and was effective at identifying positive return trading days with a 0.98 recall.
+
+![chart2](Resources/actualvstrategy2.png)
+
+Using a Decision Tree 
+
 
 ## Contributors
 Project Designor:  Michael Mikelic
